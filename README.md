@@ -17,7 +17,7 @@
 * Generates a private Key: ```npx mnemonics```
 * Save Mnemonics in secrets.json: 
   ![mnemonic](https://user-images.githubusercontent.com/29623199/128623623-225ab82d-d5d8-4bfb-9ece-47c44d7cb1ee.JPG)
-* Create own Node in Moralis to deploy the Smart Contract into a Blockchain
+* Create own Node in Moralis to deploy the Smart Contract into a Blockchain: https://admin.moralis.io/speedyNodes
   ![speedy node](https://user-images.githubusercontent.com/29623199/128623741-3fe2318e-53e7-4a8b-8296-8e3cb55f544c.JPG)
 * Configure the Configuration truffle-config.js
 ```
